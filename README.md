@@ -1,5 +1,6 @@
 # steam-links
 
-- <a href="https://app.destinyitemmanager.com">Destiny Item Manager</a>
-- <a href="https://www.light.gg/db/new-items/season/9/">light.gg</a>
-- <a href="https://lowlidev.com.au/destiny/maps/">Map</a>
+- [Destiny Item Manager](https://app.destinyitemmanager.com)
+- [light.gg](https://www.light.gg/db/new-items/season/9/)
+- [Map](https://lowlidev.com.au/destiny/maps/)
+- [Destiny 2 Lost Sectors Wiki](https://d2.destinygamewiki.com/wiki/Lost_Sectors)
