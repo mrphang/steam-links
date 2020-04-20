@@ -1,0 +1,27 @@
+#title: custom wish list
+#description: https://raw.githubusercontent.com/mrphang/steam-links/master/destiny2/s10-weapons-list.txt
+
+//Talons of the Eagle
+//notes: steady rounds dont make it lose range so use that
+dimwishlist:item=1982711279&perks=4090651448,3177308360,4267945040,3038247973
+
+//notes: Breachlight Nezarec's Sin Build
+dimwishlist:item=1289997971&perks=1482024992,1087426260,3523296417,1774574192
+
+//Bite of the Fox
+dimwishlist:item=3169616514&perks=839105230,1431678320,247725512,3038247973
+dimwishlist:item=3169616514&perks=839105230,1431678320,247725512,3425386926
+
+//Talons of the Eagle
+//notes: want to try this setup to see if better than the steady rounds roll
+dimwishlist:item=1982711279&perks=839105230,106909392,2387244414,3038247973
+dimwishlist:item=1982711279&perks=4090651448,106909392,2387244414,3038247973
+dimwishlist:item=1982711279&perks=1840239774,106909392,2387244414,3038247973
+
+//Talons of the Eagle explosive payload
+dimwishlist:item=1982711279&perks=839105230,106909392,4267945040,3038247973
+dimwishlist:item=1982711279&perks=4090651448,106909392,4267945040,3038247973
+dimwishlist:item=1982711279&perks=1840239774,106909392,4267945040,3038247973
+
+//The Hero's Burden
+dimwishlist:item=1865351684&perks=3151536501,1561002382,2387244414,1015611457
