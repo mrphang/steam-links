@@ -2,3 +2,6 @@
 #description: https://raw.githubusercontent.com/mrphang/steam-links/master/destiny2/dim-wishlist.txt
 
 dimwishlist:item=1246793994&perks=1482024992,3230963543,776531651,2048641572
+
+dimwishlist:item=1058098236&perks=3661387068,3177308360,3017780555,555281244
+dimwishlist:item=1058098236&perks=3661387068,3177308360,4223976499,332733060
